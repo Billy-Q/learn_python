@@ -5,4 +5,4 @@ Author: Billy-Q
 *****************
 '''
 
-print("hello!")
+print('hello')
